@@ -1,0 +1,7 @@
+{
+  "name": "speech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
