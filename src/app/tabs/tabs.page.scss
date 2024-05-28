@@ -1,1 +1,31 @@
 
+    .tab1 {
+
+        color: #5a557c;
+        font-weight: 900;
+
+    }
+
+.tab1Label {
+
+  
+    font-weight: 900;
+}
+
+.tab2Label {
+    color: black;
+    font-weight: 900;
+}
+
+
+.tab1:hover > .tab1Label {
+
+    color: #5a557c;
+
+}
+
+.tab2:hover > .tab2Label {
+
+    color: #5a557c;
+
+}
